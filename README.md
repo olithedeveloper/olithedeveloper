@@ -1,6 +1,12 @@
 - [ desenvolvedor front-end e web designer ] 
 - [ meus links: [www.olivelton.com](https://olithedeveloper.github.io/card-links) ]
 
+const sobreMim {
+    profissao: 'desenvolvedor front-end e web designer ',
+    meus links: '[www.olivelton.com](https://olithedeveloper.github.io/card-links)'
+    
+}
+
 ```
 while (vivo) {
     executar()
